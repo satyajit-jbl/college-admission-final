@@ -7,8 +7,7 @@ A full-stack MERN web app where users can explore, apply to, and review colleges
 ## 📸 Live Preview & Demo
 
 > 🌐 [Visit Live Website](https://your-live-link.vercel.app)  
-> 🖥️ [Backend Repo](https://github.com/yourusername/backend-repo)  
-> 🖥️ [Frontend Repo](https://github.com/yourusername/frontend-repo)
+> 🖥️ [Repo](https://github.com/satyajit-jbl/college-admission-final)  
 
 ---
 
