@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@plugin "daisyui" {
+  themes: winter --default, dark --prefersdark;
+};
+
+.active{
+    background-color: white !important;
+    color: #6A609F !important;
+    font-weight: bold;
+}

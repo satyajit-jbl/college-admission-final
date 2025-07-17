@@ -1,0 +1,98 @@
+[
+    {
+        "collegeImage": "https://i.ibb.co/C3myfrPL/college.jpg",
+        "collegeName": "Greenfield Science College",
+        "admissionDate": "2025-08-01",
+        "events": [
+            "Science Fair",
+            "Tech Talk",
+            "Alumni Meet"
+        ],
+        "researchHistory": "Renowned for AI and Environmental Studies since 2005.",
+        "sports": [
+            "Football",
+            "Basketball",
+            "Table Tennis"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/C3myfrPL/college.jpg",
+        "collegeName": "Sunrise Arts Academy",
+        "admissionDate": "2025-07-20",
+        "events": [
+            "Annual Drama",
+            "Art Exhibition",
+            "Creative Writing Workshop"
+        ],
+        "researchHistory": "Leading research in performing arts and cultural studies.",
+        "sports": [
+            "Badminton",
+            "Yoga",
+            "Cricket"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/C3myfrPL/college.jpg",
+        "collegeName": "Metro Business School",
+        "admissionDate": "2025-09-01",
+        "events": [
+            "Business Summit",
+            "Startup Expo",
+            "Case Study Challenge"
+        ],
+        "researchHistory": "Known for research in finance, entrepreneurship, and marketing since 2010.",
+        "sports": [
+            "Volleyball",
+            "Swimming",
+            "Chess"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/C3myfrPL/college.jpg",
+        "collegeName": "Hillside Engineering Institute",
+        "admissionDate": "2025-08-15",
+        "events": [
+            "TechFest",
+            "Hackathon",
+            "Robotics Show"
+        ],
+        "researchHistory": "Specialized in civil engineering innovation and renewable energy research.",
+        "sports": [
+            "Cricket",
+            "Basketball",
+            "Athletics"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/C3myfrPL/college.jpg",
+        "collegeName": "Riverdale Medical College",
+        "admissionDate": "2025-08-10",
+        "events": [
+            "Health Camp",
+            "Medical Seminar",
+            "Blood Donation Drive"
+        ],
+        "researchHistory": "Focused on clinical trials and biomedical engineering breakthroughs.",
+        "sports": [
+            "Tennis",
+            "Swimming",
+            "Table Tennis"
+        ]
+    },
+    {
+        "collegeImage": "https://i.ibb.co/C3myfrPL/college.jpg",
+        "collegeName": "Bright Future Law School",
+        "admissionDate": "2025-09-05",
+        "events": [
+            "Moot Court",
+            "Legal Awareness Week",
+            "Debate Championship"
+        ],
+        "researchHistory": "Recognized for legal research and constitutional law studies.",
+        "sports": [
+            "Football",
+            "Debating",
+            "Carrom"
+        ]
+    }
+]
